@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Product1",
+        "total_quantity": 139,
+        "type_of_product": "trousers",
+        "price": 320
+    },
+    {
+        "id": 2,
+        "name": "Product2",
+        "total_quantity": 136,
+        "type_of_product": "t-shirt",
+        "price": 3205
+    },
+    {
+        "id": 3,
+        "name": "Product3",
+        "total_quantity": 13,
+        "type_of_product": "pant",
+        "price": 320
+    },
+    {
+        "id": 4,
+        "name": "Product4",
+        "total_quantity": 13,
+        "type_of_product": "pant",
+        "price": 320
+    },
+    {
+        "name": "Product5",
+        "total_quantity": 156,
+        "type_of_product": "pant",
+        "price": 320,
+        "id": 5
+    }
+]
